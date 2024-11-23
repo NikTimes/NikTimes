@@ -8,4 +8,4 @@
 
 Hey there, I am a theoretical physics undergraduate student at Maynooth University. As the reader can probably note after reading the bullet points above, yes, this GitHub account mainly revolves around Machine learning and Physics. At the time of writing this description, there is not much going on, 2 public and 3 private repositories. Hopefully, throughout the years this becomes more crowded. 
 
-- Enric
+-Nik
