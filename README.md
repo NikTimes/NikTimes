@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @NikTimes
 - 👀 I’m interested in Physics and Machine Learning 
 - 🌱 I’m currently learning Neural Network architectures
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on anything machine learning related to be honest
 - 📫 How to reach me: kikestime2005@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I cannot stop listening to Mark Littieri's baritone sessions
